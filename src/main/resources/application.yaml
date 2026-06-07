@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: Entrega-Factory-Method
+
+server:
+  port: 8081
